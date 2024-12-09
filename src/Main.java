@@ -10,6 +10,7 @@ public class Main {
 
 
         Bicycle bicycle = new Bicycle("bicycle1", 2);
+
         Bicycle bicycle2 = new Bicycle("bicycle2", 2);
 
 
